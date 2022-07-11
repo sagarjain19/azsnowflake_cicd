@@ -1,8 +1,4 @@
-Version 1
-<<<<<<< HEAD
-=======
-File naming formatting.
->>>>>>> 99db3b929f52bf96bcfb0f438ca363b92c6b414b
+Coding standards and naming convention.
 
 1.Versioned Script Naming
 
