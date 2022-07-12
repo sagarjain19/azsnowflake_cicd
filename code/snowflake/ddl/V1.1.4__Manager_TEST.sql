@@ -1,0 +1,11 @@
+USE SCHEMA EDW;
+CREATE TABLE EDW.MR
+(
+   MRID VARCHAR
+  ,HR_NAME VARCHAR
+  ,HR_LOCATION VARCHAR
+<<<<<<< HEAD
+);
+=======
+);
+>>>>>>> edb26d8e99c9f1c08afe2df97fbe3c7c281c9d59
