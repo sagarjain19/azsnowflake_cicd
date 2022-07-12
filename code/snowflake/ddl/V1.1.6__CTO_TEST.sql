@@ -1,5 +1,5 @@
 USE SCHEMA EDW;
-CREATE TABLE EDW.CTO2
+CREATE TABLE EDW.CTO3
 (
    CTOID VARCHAR
   ,CTO_NAME VARCHAR
@@ -7,11 +7,11 @@ CREATE TABLE EDW.CTO2
 );
 
 
-insert into EDW.CTO2 Values (1, 'nitin','dell');
-insert into EDW.CTO2 Values (2, 'srikanth','dell');
-insert into EDW.CTO2 Values (3, 'nitin','dell');
-insert into EDW.CTO2 Values (4, 'srikanth','dell');
-insert into EDW.CTO2 Values (5, 'nitin','dell');
-insert into EDW.CTO2 Values (6, 'srikanth','dell');
-insert into EDW.CTO2 Values (7, 'nitin','dell');
-insert into EDW.CTO2 Values (8, srikanth','dell');
+insert into EDW.CTO3 Values (1, 'nitin','dell');
+insert into EDW.CTO3 Values (2, 'srikanth','dell');
+insert into EDW.CTO3 Values (3, 'nitin','dell');
+insert into EDW.CTO3 Values (4, 'srikanth','dell');
+insert into EDW.CTO3 Values (5, 'nitin','dell');
+insert into EDW.CTO3 Values (6, 'srikanth','dell');
+insert into EDW.CTO3 Values (7, 'nitin','dell');
+insert into EDW.CTO3 Values (8, srikanth','dell');
