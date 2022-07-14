@@ -14,4 +14,4 @@ insert into EDW.CTO2 Values (4, 'srikanth','dell');
 insert into EDW.CTO2 Values (5, 'nitin','dell');
 insert into EDW.CTO2 Values (6, 'srikanth','dell');
 insert into EDW.CTO2 Values (7, 'nitin','dell');
-insert into EDW.CTO2 Values (8, srikanth','dell');
+insert into EDW.CTO2 Values (8, 'srikanth','dell');
